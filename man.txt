@@ -1,0 +1,1 @@
+If you encounter the error "error: pathspec 'master' did not match any file(s) known to git" when trying to switch to the master branch, it usually means that the master branch does not exist in your Git repository. There are a few potential reasons for this:
